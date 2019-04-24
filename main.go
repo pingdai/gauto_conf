@@ -1,8 +1,8 @@
 package main
 
 import (
-	"test/reflect/confx"
-	"test/reflect/ginx"
+	"github.com/pingdai/gauto_conf/confx"
+	"github.com/pingdai/gauto_conf/ginx"
 )
 
 var Config Cfg
